@@ -1,0 +1,22 @@
+div{
+    height: 200px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    border: rgb(32, 24, 2) solid 1px;
+    margin: auto;
+    margin-left: auto;
+
+
+}
+
+textarea{
+    width: 700px;
+    height: 150px;
+    margin: auto;
+    resize: none;
+
+}
+body{
+    background-color: rgb(242, 230, 215);
+}
